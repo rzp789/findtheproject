@@ -1,0 +1,23 @@
+.navbar1{
+    list-style-type: none;
+    margin-right: 2vw;
+}
+
+.navbar1:hover {
+    
+    background-color: rgb(190, 189, 189);
+} 
+.d-block {
+    height : 20vw;
+    width : 40vw;
+}
+.title_article{
+    font-size: 25px;
+    
+}
+.rounded{
+    opacity:0;
+}
+.rounded:hover{
+    opacity:1;
+}
